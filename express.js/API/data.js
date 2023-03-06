@@ -1,0 +1,24 @@
+const data = [
+  {
+    id: 1,
+    name: "Harry Potter",
+    city: "London",
+  },
+  {
+    id: 2,
+    name: "Don Quixote",
+    city: "Madrid",
+  },
+  {
+    id: 3,
+    name: "Joan of Arc",
+    city: "Paris",
+  },
+  {
+    id: 4,
+    name: "Rosa Park",
+    city: "Alabama",
+  },
+];
+
+module.exports = data;
